@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "d2lGui.pyw", line 253, in <module>
+  File "d2lGui.pyw", line 249, in main
+  File "d2lGui.pyw", line 10, in __init__
+  File "d2lGui.pyw", line 18, in InitUi
+  File "d2lGui.pyw", line 189, in getNumClasses
+IOError: [Errno 2] No such file or directory: 'config.json'
